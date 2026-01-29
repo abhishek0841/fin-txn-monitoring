@@ -1,7 +1,7 @@
 import pandas as pd
 
-RAW_PATH = "data/raw/credit_card_transactions_clean.csv"
-OUT_PATH = "data/raw/credit_card_transactions_clean.csv"
+RAW_PATH = "data/raw/credit_card_transactions.csv"
+OUT_PATH = "data/raw/credit_card_transactions_out.csv"
 
 df = pd.read_csv(RAW_PATH)
 
