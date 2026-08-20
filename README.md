@@ -1,10 +1,9 @@
 
-# 📊 Financial Transaction Monitoring & Forecasting System | [Link](https://fin-txn-monitoring-tcs8emsbm5ojtt6iatschv.streamlit.app/)
-
+# 📊 Financial Transaction Monitoring & Forecasting System 
 An end-to-end Business Intelligence (BI) analytics project that transforms raw credit card transaction data into decision-ready insights through KPI modeling, forecasting, anomaly detection, and interactive visualization.
 
 This project simulates how modern analytics teams monitor financial operations, detect unusual patterns, and support data-driven decision-making.
-
+[Live Demo](https://fin-txn-monitoring-tcs8emsbm5ojtt6iatschv.streamlit.app/)
 ---
 
 ## 🚀 Project Overview
